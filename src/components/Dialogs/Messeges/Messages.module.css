@@ -1,0 +1,13 @@
+.messages{
+    padding: 15px;
+}
+
+.message{
+
+}
+
+.messages img {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
